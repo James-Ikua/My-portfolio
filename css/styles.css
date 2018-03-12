@@ -1,0 +1,16 @@
+body {
+  background-image: url(../img/img.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  font-style: italic;
+  font-family: sans-serif;
+  color: magenta;
+}
+
+p {
+  color: white;
+}
